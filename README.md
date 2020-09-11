@@ -1,5 +1,2 @@
-Meu primeiro comando no git
+Meu primeiro comando no git (alterado e atualizado)
 
-Teste alteração
-
-teste
